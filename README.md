@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anshu Singh</h1>
 
-<!--
-**anshusingh-56/anshusingh-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 B.Tech Computer Science Engineering Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 Learning C Programming • 💻 Future Software Engineer • 🚀 Building My Skills Every Day
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 First-Year B.Tech CSE Student
+- 🌱 Currently learning **C Programming**
+- 💡 Interested in Software Development
+- 🎯 Goal: Become a Skilled Software Engineer
+- 📍 Indore, Madhya Pradesh, India
+
+---
+
+## 🛠 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- C Programming
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 📂 Repositories
+
+- 📁 C Programming Programs
+- 📁 College Assignments
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anshusingh-56&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=github_dark)
+
+---
+
+## 📈 Current Focus
+
+✔ Strengthening C Programming
+
+✔ Improving Problem Solving
+
+✔ Preparing for Data Structures
+
+---
+
+⭐ **Learning something new every day.**
