@@ -63,7 +63,8 @@
 - ⏳ Build my first real-world projects
 - ⏳ Contribute to Open Source
 
----
+## 🐍 Anshu Singh's Contribution Snake
+![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
 ## 💻 Current Focus
 
