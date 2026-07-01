@@ -1,5 +1,3 @@
-![Banner](https://github.com/anshusingh-56/anshusingh-56/blob/main/copilot_image_1782939448100.jpeg)<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Anshu%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20Learning%20C%20Programming&descAlignY=60"/>
 
 <br>
@@ -9,7 +7,7 @@
 </div>
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380" src=".github/workflows/IMG_20260702_030356.png"/>
 
 # 💫 About Me
 
