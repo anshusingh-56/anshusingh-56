@@ -12,9 +12,8 @@
 <img src="https://img.shields.io/badge/Open%20Source-Beginner-success?style=for-the-badge"/>
 </p>
 
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-
-<img align="right" width="380" src="https://media.giphy.com/media/LBK62iTDkzGX6/giphy.gif"/>
 
 # 💫 About Me
 
