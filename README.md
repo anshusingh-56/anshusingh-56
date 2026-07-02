@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+%F0%9F%9A%80" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c"/>
@@ -13,7 +13,8 @@
 </p>
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+<img align="right" width="380" src="https://media.giphy.com/media/LBK62iTDkzGX6/giphy.gif"/>
 
 # 💫 About Me
 
@@ -71,12 +72,10 @@
 ## 🐍 Anshu Singh's Contribution Snake
 ![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
-
-<h2 align="center">🚀 Developer Dashboard</h2>
-
 <p align="center">
-  <img src="./dashboard.png" width="100%" alt="Developer Dashboard"/>
+  <img src="./current-focus.png" width="100%" alt="Current Focus">
 </p>
+
 
 ---
 ## 📊 GitHub Analytics
@@ -110,14 +109,12 @@
 ---
 
 
-## 📂 Featured Repositories
+<p align="center">
+  <img src="./featured-repositories.png" width="100%" alt="Featured Repositories">
+</p>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshusingh-56&repo=C-programming-&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshusingh-56&repo=anshusingh-56&theme=tokyonight"/>
-
+  <img src="./my-learning-journey.png" width="100%" alt="My Learning Journey">
 </p>
 
 ## 🎯 Current Goals
