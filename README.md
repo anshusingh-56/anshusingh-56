@@ -1,13 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Anshu%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20Learning%20C%20Programming&descAlignY=60"/>
+<p align="center">
+  <img src="./banner.png" alt="Anshu Singh Banner" width="100%">
+</p>
 
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+🚀" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20Source-Beginner-success?style=for-the-badge"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Future+Software+Engineer;Building+My+Future+One+Commit+at+a+Time🚀)](https://git.io/typing-svg)
 
-</div>
-
-
-<img align="right" width="380" src=".github/workflows/IMG_20260702_030356.png"/>
+<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 # 💫 About Me
 
@@ -27,28 +33,30 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode,html,css" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="center">
+<p align="center">
 
-| 🚀 Technology | 📈 Status |
-|---------------|-----------|
-| C Programming | 🟢 Learning |
-| Git | 🟢 Learning |
-| GitHub | 🟢 Learning |
-| Problem Solving | 🟡 Beginner |
+| Skill | Progress |
+|-------|----------|
+| C | 🟩🟩🟩🟩⬜ 80% |
+| Git | 🟩🟩🟩⬜⬜ 60% |
+| GitHub | 🟩🟩🟩⬜⬜ 60% |
+| Problem Solving | 🟩🟩⬜⬜⬜ 40% |
 
-</div>
+</p>
 
 ---
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D4FF&height=2"/>
+</p>
 
 ## 🎯 2026 Goals
 
@@ -63,38 +71,14 @@
 ## 🐍 Anshu Singh's Contribution Snake
 ![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
-## 💻 Current Focus
 
-<div align="center">
+<h2 align="center">🚀 Developer Dashboard</h2>
 
-```text
-🎓 First Year B.Tech CSE
-
-██████████░░░░░░░░ 50%
-
-💻 C Programming
-
-████████░░░░░░░░░░ 40%
-
-🛠 Git & GitHub
-
-██████░░░░░░░░░░░░ 30%
-
-🚀 Problem Solving
-
-█████░░░░░░░░░░░░░ 25%
-```
-
-</div>
+<p align="center">
+  <img src="./dashboard.png" width="100%" alt="Developer Dashboard"/>
+</p>
 
 ---
-
-<div align="center">
-
-### 🌟 "Consistency beats intensity. Learn something every day."
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -125,67 +109,16 @@
 
 ---
 
-## ⚡ GitHub Overview
-
-<div align="center">
-
-| 🚀 Profile | Status |
-|------------|--------|
-| 🎓 Student | ✅ Active |
-| 💻 Learning | C Programming |
-| 📂 Public Repositories | Growing |
-| ⭐ GitHub Journey | Just Started |
-| 🎯 Goal | Become a Skilled Software Engineer |
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Every commit is one step closer to my goal.
-
-</div>
-
-## 🚀 My Learning Journey
-
-<div align="center">
-
-```text
-2026
-│
-├── 🎓 Started B.Tech CSE
-│
-├── 💻 Learning C Programming ✅
-│
-├── 🌱 Learning Git & GitHub 🔄
-│
-├── 📚 Data Structures (Next)
-│
-├── 🐍 Python (Planned)
-│
-├── 🌐 Web Development (Planned)
-│
-└── 🚀 Open Source Journey
-```
-
-</div>
-
----
 
 ## 📂 Featured Repositories
 
-<div align="center">
+<p align="center">
 
-| 📁 Repository | 📌 Description |
-|--------------|----------------|
-| 💻 C Programming | College Programs & Practice |
-| 📝 College Assignments | Practical & Lab Work |
-| 🚀 More Projects | Coming Soon... |
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshusingh-56&repo=C-programming-&theme=tokyonight"/>
 
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshusingh-56&repo=anshusingh-56&theme=tokyonight"/>
 
----
+</p>
 
 ## 🎯 Current Goals
 
@@ -218,20 +151,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=anshusingh-56&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshusingh-56/anshusingh-56/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshusingh-56/anshusingh-56/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anshusingh-56/anshusingh-56/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
@@ -272,3 +191,6 @@
 </div>
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00D4FF&height=120&section=footer"/>
+</p>
