@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Anshu Singh Banner" width="100%">
+  <img src="./file_00000000299472078b84f32f9166f9dd.png" alt="Anshu Singh Banner" width="100%">
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 ![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
 <p align="center">
-  <img src="./current-focus.png" width="100%" alt="Current Focus">
+  <img src="./file_000000006e9071fb9a95357b2c02a503.png" alt="Current Focus" width="100%">
 </p>
 
 
@@ -107,13 +107,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="./featured-repositories.png" width="100%" alt="Featured Repositories">
-</p>
-
-<p align="center">
-  <img src="./my-learning-journey.png" width="100%" alt="My Learning Journey">
+  <img src="./file_0000000033d071fab49b4ecd0ce34bda.png" alt="My Learning Journey" width="100%">
 </p>
 
 ## 🎯 Current Goals
@@ -143,12 +138,6 @@
 </div>
 
 ## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshusingh-56&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
 
 ---
 
