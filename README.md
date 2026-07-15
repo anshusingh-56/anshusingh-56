@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshu+Singh;B.Tech+CSE+Student;Learning+C+Programming;Exploring+Git+%26+GitHub;Future+Software+Engineer+%F0%9F%9A%80" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c"/>
@@ -14,22 +14,21 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
+## < 💻 About Me />
 
-# 💫 About Me
+🚀 **B.Tech Computer Science Engineering (1st Year)** Student
 
-🎓 First-Year **B.Tech Computer Science Engineering** Student
+🌱 Currently learning **C Programming** and building a strong programming foundation.
 
-💻 Currently learning **C Programming**
+💻 Exploring **Git, GitHub & Open Source** to improve my development workflow.
 
-🌱 Exploring **Git & GitHub**
+🧠 Interested in **Problem Solving, Data Structures & Algorithms**.
 
-🚀 Building a strong programming foundation
-
-🎯 Goal: Become a Skilled Software Engineer
+🎯 Goal: Become a **Skilled Software Engineer** and build impactful real-world projects.
 
 📍 Indore, Madhya Pradesh, India 🇮🇳
 
-<br clear="right"/>
+> 💚 *Code. Learn. Improve. Repeat.*
 
 ## 🛠️ Tech Stack
 
@@ -43,12 +42,12 @@
 
 <p align="center">
 
-| Skill | Progress |
-|-------|----------|
-| C | 🟩🟩🟩🟩⬜ 80% |
-| Git | 🟩🟩🟩⬜⬜ 60% |
-| GitHub | 🟩🟩🟩⬜⬜ 60% |
-| Problem Solving | 🟩🟩⬜⬜⬜ 40% |
+| 💻 Skill | 🚀 Progress |
+|-----------|------------|
+| 🟢 C Programming | 🟩🟩🟩🟩⬜ 80% |
+| 🟣 Git | 🟪🟪🟪⬜⬜ 60% |
+| 🔵 GitHub | 🟦🟦🟦⬜⬜ 60% |
+| 🟡 Problem Solving | 🟨🟨⬜⬜⬜ 40% |
 
 </p>
 
@@ -81,18 +80,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshusingh-56&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshusingh-56&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=anshusingh-56&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
+<img height="170" src="https://streak-stats.demolab.com?user=anshusingh-56&theme=radical&hide_border=true&border_radius=12" />
 
 <br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+[<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=radical&hide_border=true&border_radius=12" />
 </div>
 
 ---
@@ -101,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&theme=tokyo-night&hide_border=true&radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&bg_color=0D1117&color=FF4DA6&line=FF8C42&point=C77DFF&area=true&area_color=FF4DA6&hide_border=true&radius=12" />
 
 </div>
 
