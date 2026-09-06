@@ -14,23 +14,21 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-## < 💻 About Me />
+## 💻 About Me
 
-🚀 **B.Tech Computer Science Engineering (1st Year)** Student
+🎓 B.Tech Computer Science Engineering — 2nd Year
 
-🌱 Currently learning **C Programming** and building a strong programming foundation.
+💡 Passionate about Programming, Problem Solving & Software Development.
 
-💻 Exploring **Git, GitHub & Open Source** to improve my development workflow.
+🧠 Exploring Data Structures & Algorithms and building practical projects.
 
-🧠 Interested in **Problem Solving, Data Structures & Algorithms**.
+🛠️ Learning and working with modern development tools & technologies.
 
-🎯 Goal: Become a **Skilled Software Engineer** and build impactful real-world projects.
+🚀 Aspiring Software Engineer focused on continuous learning and growth.
 
-📍 Indore, Madhya Pradesh, India 🇮🇳
+📍 Indore, Madhya Pradesh, India
 
-> 💚 *Code. Learn. Improve. Repeat.*
-
-## 🛠️ Tech Stack
+> 💚 Code. Learn. Improve. Repeat.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,git,github,vscode,html,css" />
@@ -70,10 +68,6 @@
 ## 🐍 Anshu Singh's Contribution Snake
 ![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
-<p align="center">
-  <img src="./file_000000006e9071fb9a95357b2c02a503.png" alt="Current Focus" width="100%">
-</p>
-
 
 ---
 ## 📊 GitHub Analytics
@@ -101,20 +95,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&bg_color=0D1117&color=FF4DA6&line=FF8C42&point=C77DFF&area=true&area_color=FF4DA6&hide_border=true&radius=12" />
 
 </div>
-
----
-
-<p align="center">
-  <img src="./file_0000000033d071fab49b4ecd0ce34bda.png" alt="My Learning Journey" width="100%">
-</p>
-
-## 🎯 Current Goals
-
-- ✅ Strengthen C Programming
-- ✅ Practice Coding Every Day
-- ⏳ Build My First GitHub Project
-- ⏳ Learn Git & GitHub Properly
-- ⏳ Start Data Structures
 
 ---
 
