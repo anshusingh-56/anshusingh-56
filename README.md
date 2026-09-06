@@ -16,19 +16,22 @@
 
 ## 💻 About Me
 
-🎓 B.Tech Computer Science Engineering — 2nd Year
+🎓 **B.Tech Computer Science Engineering — 2nd Year**
 
-💡 Passionate about Programming, Problem Solving & Software Development.
+💡 Passionate about **Programming, Problem Solving & Software Development**.
 
-🧠 Exploring Data Structures & Algorithms and building practical projects.
+🧠 Exploring **Data Structures & Algorithms** through practical projects.
 
-🛠️ Learning and working with modern development tools & technologies.
+🛠️ Learning and working with **modern development tools & technologies**.
 
-🚀 Aspiring Software Engineer focused on continuous learning and growth.
+🚀 Aspiring **Software Engineer** focused on continuous learning and growth.
 
-📍 Indore, Madhya Pradesh, India
+📍 **Indore, Madhya Pradesh, India**
 
-> 💚 Code. Learn. Improve. Repeat.
+> 💚 *Code. Learn. Improve. Repeat.*
+>
+> ## 🛠️ Tech Stack
+> > Technologies I have learned, explored, and continue to improve.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,git,github,vscode,html,css" />
@@ -38,15 +41,13 @@
 
 ## 📚 Currently Learning
 
-<p align="center">
-
-| 💻 Skill | 🚀 Progress |
-|-----------|------------|
-| 🟢 C Programming | 🟩🟩🟩🟩⬜ 80% |
-| 🟣 Git | 🟪🟪🟪⬜⬜ 60% |
-| 🔵 GitHub | 🟦🟦🟦⬜⬜ 60% |
-| 🟡 Problem Solving | 🟨🟨⬜⬜⬜ 40% |
-
+| 📌 Area | 🔍 Focus |
+| :--- | :--- |
+| 🧠 Data Structures & Algorithms | Problem Solving & Core Concepts |
+| 🐍 Python | Programming & Practical Applications |
+| 🌐 Web Development | HTML, CSS & Web Fundamentals |
+| 🛠️ Git & GitHub | Version Control & Collaboration |
+| 💻 Software Development | Building Practical Projects |
 </p>
 
 ---
@@ -55,17 +56,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D4FF&height=2"/>
 </p>
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-- ✅ Build a strong foundation in **C Programming**
-- ✅ Learn **Git & GitHub**
-- ⏳ Start **Data Structures & Algorithms**
-- ⏳ Learn **Python**
-- ⏳ Learn **HTML & CSS**
-- ⏳ Build my first real-world projects
-- ⏳ Contribute to Open Source
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 💻 Building **practical software projects**
+- 🐍 Expanding my programming skills with **Python**
+- 🛠️ Improving my **Git & GitHub workflow**
+- 🌐 Exploring **modern web technologies**
+- 🌱 Contributing to **Open Source**
 
-## 🐍 Anshu Singh's Contribution Snake
+- 
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/anshusingh-56/anshusingh-56/blob/output/github-contribution-grid-snake-dark.svg?palette=purple)
 
 
@@ -74,16 +75,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshusingh-56&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshusingh-56&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=anshusingh-56&theme=radical&hide_border=true&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshusingh-56&theme=radical&hide_border=true" width="48%" />
 
-<br>
+<br><br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=radical&hide_border=true" width="45%" />
 
-[<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusingh-56&layout=compact&theme=radical&hide_border=true&border_radius=12" />
 </div>
 
 ---
@@ -92,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&bg_color=0D1117&color=FF4DA6&line=FF8C42&point=C77DFF&area=true&area_color=FF4DA6&hide_border=true&radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&theme=react-dark&hide_border=true" width="95%" />
 
 </div>
 
@@ -100,10 +99,8 @@
 
 ## 💡 Developer Mindset
 
-<div align="center">
-
-> **"I don't compare myself with others. I compare myself with who I was yesterday."**
-
+> *"I don't compare myself with others.  
+> I compare myself with who I was yesterday."*
 </div>
 
 ---
@@ -114,23 +111,18 @@
 
 </div>
 
-## 🏆 GitHub Achievements
-
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/anshusingh-56">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:studenthelp958@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:anshusingh85741640@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -146,12 +138,15 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile.
+---
 
-**Learning • Building • Growing 🚀**
+## ⭐ Thanks for Visiting!
 
-</div>
+> *Learning • Building • Growing* 🚀
 
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
 ---
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00D4FF&height=120&section=footer"/>
