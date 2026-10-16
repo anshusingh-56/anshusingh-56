@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./file_00000000299472078b84f32f9166f9dd.png" alt="Anshu Singh Banner" width="100%">
+  <img src="banner-v6.svg" alt="Anshu Singh Banner" width="100%">
 </p>
 
 <p align="center">
