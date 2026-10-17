@@ -29,20 +29,46 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist
           python3 - <<'PYEOF'
           import json, os, sys, urllib.request, datetime
+          import re, traceback
           login = "anshusingh-56"
-          q = "query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"
-          if os.environ.get("MOCK"):
-              import random; random.seed(1)
-              weeks = [{"contributionDays": [{"date": "x", "contributionCount": random.choice([0, 0, 1, 3, 6])} for _ in range(7)]} for _ in range(53)]
-              total = sum(d["contributionCount"] for w in weeks for d in w["contributionDays"])
-          else:
+          def from_graphql():
+              q = "query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionCount}}}}}}"
               req = urllib.request.Request("https://api.github.com/graphql", data=json.dumps({"query": q, "variables": {"l": login}}).encode(),
                   headers={"Authorization": "Bearer " + os.environ["GH_TOKEN"], "Content-Type": "application/json", "User-Agent": "graph"})
-              cal = json.load(urllib.request.urlopen(req))["data"]["user"]["contributionsCollection"]["contributionCalendar"]
-              weeks, total = cal["weeks"], cal["totalContributions"]
-          vals = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in weeks]
+              r = json.load(urllib.request.urlopen(req, timeout=30))
+              if "data" not in r or not r["data"] or not r["data"].get("user"):
+                  raise RuntimeError("GraphQL response: " + json.dumps(r)[:300])
+              cal = r["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+              return [sum(d["contributionCount"] for d in w["contributionDays"]) for w in cal]
+          def from_html():
+              req = urllib.request.Request(f"https://github.com/users/{login}/contributions", headers={"User-Agent": "Mozilla/5.0"})
+              html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+              tips = {m[0]: m[1] for m in re.findall(r'<tool-tip[^>]*\bfor="([^"]+)"[^>]*>\s*([^<]*?)\s*</tool-tip>', html)}
+              days = []
+              for tag in re.findall(r"<td[^>]*data-date=[^>]*>", html):
+                  date = re.search(r'data-date="([^"]+)"', tag).group(1)
+                  i = re.search(r'\bid="([^"]+)"', tag); lv = re.search(r'data-level="(\d)"', tag)
+                  tip = tips.get(i.group(1), "") if i else ""
+                  m = re.match(r"(\d+)", tip)
+                  cnt = int(m.group(1)) if m else (0 if tip.startswith("No") else int(lv.group(1)) if lv else 0)
+                  days.append((date, cnt))
+              if not days: raise RuntimeError("no contribution cells found in HTML")
+              days.sort()
+              return [sum(c for _, c in days[k:k + 7]) for k in range(0, len(days), 7)]
+          vals = None
+          if os.environ.get("MOCK"):
+              import random; random.seed(1); vals = [random.choice([0, 1, 5, 9, 14]) for _ in range(53)]
+          else:
+              for fn in (from_graphql, from_html):
+                  try:
+                      vals = fn(); print("source:", fn.__name__); break
+                  except Exception:
+                      print("FAILED:", fn.__name__); traceback.print_exc()
+              if not vals: sys.exit(1)
+          total = sum(vals)
           W, H, L, R, T, B = 900, 300, 50, 30, 70, 50
           mx = max(max(vals), 1); n = len(vals)
           pts = [(L + i * (W - L - R) / (n - 1), T + (H - T - B) * (1 - v / mx)) for i, v in enumerate(vals)]
