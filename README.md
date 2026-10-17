@@ -7,8 +7,7 @@
 
   <a href="https://www.linkedin.com/in/anshu-singh56/"><img src="https://img.shields.io/badge/LinkedIn-Anshu_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/anshusingh-56"><img src="https://img.shields.io/badge/GitHub-anshusingh--56-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=anshusingh-56&label=Profile+views&color=7FAAD3&style=for-the-badge" alt="Profile views">
-</div>
+<img src="https://hits.sh/github.com/anshusingh-56.svg?label=Profile%20views&color=7FAAD3&v=1" alt="Profile views"></div>
 
 <img src="div-wave.svg" width="100%" alt="">
 
