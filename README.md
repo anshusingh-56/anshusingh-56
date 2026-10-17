@@ -54,7 +54,7 @@ Add your best projects here like this:
   <br>
   <img src="https://streak-stats.demolab.com?user=anshusingh-56&hide_border=true&background=0D151C&ring=69B9D3&fire=74B1D7&currStreakLabel=69B9D3&sideLabels=CDD7E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91A0AD" alt="GitHub streak">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh-56&bg_color=0D151C&color=69B9D3&line=74B1D7&point=FFFFFF&area=true&area_color=74B1D7&hide_border=true" alt="Contribution activity graph" width="100%">
+  <img src="https://raw.githubusercontent.com/anshusingh-56/anshusingh-56/output/activity-graph.svg?v=1" alt="Contribution activity graph" width="100%" 56&bg_color=0D151C&color=69B9D3&line=74B1D7&point=FFFFFF&area=true&area_color=74B1D7&hide_border=true" alt="Contribution activity graph" width="100%">
 </div>
 
 <picture>
