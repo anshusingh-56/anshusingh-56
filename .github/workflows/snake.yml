@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -17,8 +20,8 @@ jobs:
         with:
           github_user_name: anshusingh-56
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#4f8fb0&color_dots=#e1e8ee,#b8d3e5,#8fbcd8,#69a4c9,#3f86b3
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#8FD0EA&color_dots=#16212b,#24394a,#35607a,#4f8fb0,#74b1d7
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
